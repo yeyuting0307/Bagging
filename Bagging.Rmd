@@ -1,0 +1,15 @@
+---
+title: "Bagging"
+author: "Mike"
+date: "2020/4/21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reference
+
+1. [chap 08 - 集成学习 | Ensemble learning](https://octemull.github.io/personal-site/post/ml-chap08/)
+
